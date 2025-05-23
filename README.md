@@ -15,7 +15,7 @@
 
 Below is an example of the dashboard interface:
 
-![Learning Analysis Dashboard](dashboard.png)
+![Learning Analysis Dashboard](https://github.com/bills1912/learning_analysis/blob/main/dashboard.jpeg)
 
 ## Usage
 
